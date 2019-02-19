@@ -10,15 +10,18 @@ For this assignment, you will submit a high-level outline of your project. This 
 A travel agent is made successful by her travelers. But how does one obtain travelers? By real life stories, of course! She must share who she is, where she's been, and where she's going. Then, and only then, will a traveler be enticed to book their next adventure with her. She must capture their interest and peek their excitement, and once she does, they will come back, again and again!
 
 She needs a web application to accomplish such goals.  One that shares real life stories of real life travelers. One that allows for new and returning travelers to view past and upcoming adventures, inquire about additional details, and allows travelers to book their next adventure. You know what they say......"If you build it, they will come!"
+
 ### Features
 <ul>
   <li><b>Contact Form</b>: Travelers may enter and submit their contact information to request further information about available adventures.</li>
 </ul>
+
 ### Technologies
 <ul>
   <li>HTML</li>
   <li>CSS</li>
   <li>Python</li>
 </ul>
+
 ### What I'll Have to Learn
 Include what you will need to learn here
