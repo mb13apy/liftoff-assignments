@@ -13,8 +13,10 @@ She needs a web application to accomplish such goals.  One that shares real life
 ### Features
 Include Features here
 ### Technologies
-HTML
-CSS
-Python
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Python</li>
+</ul>
 ### What I'll Have to Learn
 Include what you will need to learn here
