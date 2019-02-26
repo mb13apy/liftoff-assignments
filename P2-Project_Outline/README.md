@@ -16,8 +16,8 @@ She needs a web application to accomplish such goals.  One that shares real life
   <li><b>Contact Form</b>: Travelers may enter and submit their contact information to request further information about available adventures.</li>
   <li><b>Booking Form</b>: Travelers will be able to book their next adventure and define selections such as type of cabin and cabin mate on a cruise.</li>
   <li><b>Credit Card Authorization Form</b>: Travelers will be able to complete the form required for the travel agent to accept payments via credit card.</li>
-  <li><b>User Login</b>: Travelers will be able to create accounts with a profile page and be able to view account balances, submit payments, etc.</li>
-  <li><b>Create Post</b>: Travelers will have the ability to create blog posts and upload photos of their adventures. Ideally, travelers would also be able to favorite other travelers and initialize communication with other travelers via email. All information will appear in the traveler's profile.</li>
+  <li><b>User Login</b>: Travelers will be able to create accounts with a profile page and be able to view account balances, submit payments, etc. Ideally, travelers would also be able to favorite other travelers and initialize communication with other travelers via email.</li>
+  <li><b>Create Post</b>: Travelers will have the ability to create blog posts and upload photos of their adventures. All information will appear in the traveler's profile.</li>
   <li><b>Search</b>: Travelers will be able to search for blog posts, adventures, and other travelers using keywords.</li>
 </ul>
 
@@ -39,5 +39,5 @@ She needs a web application to accomplish such goals.  One that shares real life
   <li>How to secure a Credit Card Authorization Form</li>
   <li>How to submit payments to an email without charging the form of payment and secure with encryption</li>
   <li>How to grant Administrative Login</li>
-  <li>MongoDB>
+  <li>MongoDB</li>
 </ul>
